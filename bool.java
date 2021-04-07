@@ -1,3 +1,4 @@
+// This program will show demo on boolean variables
 import java.util.*;
 public class bool {
     public static void main(String[] args) {
